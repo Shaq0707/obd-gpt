@@ -19,7 +19,7 @@ export default function Dashboard() {
       <div>
         <h1 className="text-2xl font-semibold">Vehicle Dashboard</h1>
         <p className="mt-1 text-sm text-zinc-400">
-          Phase 1 preview. Device communication is not implemented yet.
+          Connect an ELM327 adapter below. Live data and trouble codes come in a later phase.
         </p>
       </div>
 
